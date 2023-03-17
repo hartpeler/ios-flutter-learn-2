@@ -27,7 +27,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final _url = 'http://info.cern.ch/'; // Change this to your desired URL
+  final _url = 'http://uvers.ac.id'; // Change this to your desired URL
 
   @override
   Widget build(BuildContext context) {
